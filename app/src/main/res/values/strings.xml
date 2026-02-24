@@ -1,3 +1,24 @@
 <resources>
     <string name="app_name">Cultr</string>
+
+    <string name="cine">Cine</string>
+    <string name="libros">Libros</string>
+
+    <string name="peliculas_destacadas">Películas Destacadas</string>
+    <string name="titulo_ejemplo">El Resplandor</string>
+    <string name="anio_ejemplo">1980</string>
+    <string name="rating_ejemplo">★★★★☆</string>
+
+    <string name="lugares">Lugares</string>
+    <string name="todos">Todos</string>
+    <string name="cines">Cines</string>
+    <string name="librerias">Librerías</string>
+    <string name="lugar_ejemplo">Cine Capitol</string>
+    <string name="direccion_ejemplo">Gran Vía 41, Madrid</string>
+    <string name="planificar_visita">Planificar Visita</string>
+    <string name="cerrar">Cerrar</string>
+
+    <string name="nav_explorar">Explorar</string>
+    <string name="nav_mapa">Mapa</string>
+    <string name="nav_listas">Mis Listas</string>
 </resources>
